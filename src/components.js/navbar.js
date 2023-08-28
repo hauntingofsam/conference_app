@@ -11,7 +11,7 @@ const Navbar=({query,handleInputChange})=>{
     
     return(
         <div className="whole-nav">
-          <nav className="navbar navbar-expand-lg bg-light fixed-top">
+          <nav className="navbar navbar-expand-lg bg-light fixed-top" id="navbar">
             <div className="container-fluid">
               <Link className="navbar-brand" to="/" id="context">Conference</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
