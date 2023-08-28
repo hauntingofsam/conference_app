@@ -34,5 +34,16 @@ cursor: pointer;
   box-shadow: 0 10px 20px rgba(0,0,0,.14), 0 4px 8px rgba(0,0,0,.08);
 }
 #context{
-  color: green;
+  color: white;
+  background-color: rgb(55, 128, 66);
+  border-radius: 20px;
+  margin:0.8%;
+  padding: 0.5%;
+}
+#hometext{
+  color: white;
+  background-color: rgb(55, 128, 66);
+  border-radius: 20px;
+  margin: 0.8%;
+  
 }

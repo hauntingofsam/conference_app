@@ -3,7 +3,7 @@ import './App.css';
 
 import Navbar from './components.js/navbar';
 import ContentBox from './components.js/contentbox';
-import query from './components.js/navbar'
+
 
 import React,{Component,useState} from 'react';
 import {
